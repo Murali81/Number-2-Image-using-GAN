@@ -20,3 +20,6 @@ Instead of feeding a random noise(A vector of size 100 or so) to the generator, 
 # References
 
 [1] O'Shea, O'Shea Research <a href="https://www.kdnuggets.com/2016/07/mnist-generative-adversarial-model-keras.html">MNIST GAN</a>
+
+[2] <a href="https://datascience.stackexchange.com/questions/6107/what-are-deconvolutional-layers">Deconvolution(Unsampling and Conv) in Generator</a>
+
