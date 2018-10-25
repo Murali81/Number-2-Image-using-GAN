@@ -11,11 +11,6 @@ Generator outputs during Training
 
 ![alt text](https://github.com/Murali81/Number-2-Images-using-GAN/blob/master/images_numb_Gan_mse_sftmx_cc_cc/output_gif.gif)
 
-Explanation:
-
-The major difference you'll find here is the **Discriminator** part, i.e instead of classifying the image as real/fake, it classifies the image into real (10 classes)/ fake. Number of classes for the model are changed from 2 (real, fake) to 11 (0,1,2,...,9, fake)
-
-Instead of feeding a random noise(A vector of size 100 or so) to the generator, we feed in a one-hot vector(size=10) of a number to the generator. GAN model is trained over these images.
 
 # References
 
