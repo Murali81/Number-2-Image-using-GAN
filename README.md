@@ -14,3 +14,7 @@ Generator outputs during Training
 Explanation:
 
 The major difference you'll find here is the **Discriminator** part, i.e instead of classifying the image as real/fake, it classifies the image into real (10 classes)/ fake. Number of classes for the model are changed from 2 (real, fake) to 11 (0,1,2,...,9, fake)
+
+# References
+
+[1] O'Shea, O'Shea Research<a href="https://www.kdnuggets.com/2016/07/mnist-generative-adversarial-model-keras.html">MNIST GAN</a>
