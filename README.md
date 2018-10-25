@@ -1,6 +1,10 @@
 # Number-2-Image-using-GAN
 Takes a number and generates the images of those numbers. Trained on MNIST using GAN.
 
+If the given number is 85481, we convert that to [8,5,4,8,1] and create a batch of numbers and pass it through generator. Images generated for each number are stitched through matplotlib. Output for 85481 is 
+
+![alt text](https://github.com/Murali81/Number-2-Image-using-GAN/blob/master/images_numb_Gan_mse_sftmx_cc_cc/output_img.PNG)
+
 Generator outputs during Training
 
 ![alt text](https://github.com/Murali81/Number-2-Images-using-GAN/blob/master/images_numb_Gan_mse_sftmx_cc_cc/output_gif.gif)
