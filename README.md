@@ -17,4 +17,4 @@ The major difference you'll find here is the **Discriminator** part, i.e instead
 
 # References
 
-[1] O'Shea, O'Shea Research<a href="https://www.kdnuggets.com/2016/07/mnist-generative-adversarial-model-keras.html">MNIST GAN</a>
+[1] O'Shea, O'Shea Research <a href="https://www.kdnuggets.com/2016/07/mnist-generative-adversarial-model-keras.html">MNIST GAN</a>
