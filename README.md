@@ -1,5 +1,5 @@
 # Number-2-Image-using-GAN
-Takes a number and generates the images of those numbers. Trained on MNIST using GAN.
+Takes a number and generates the images of those numbers. Trained on MNIST using DCGAN(Deep Convolutional GAN) .
 
 Notebook has been created with markdowns and comments to make it self-explainable. Still, I'll try uploading a detailed explanation of the code.
 
