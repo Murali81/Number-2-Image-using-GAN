@@ -3,4 +3,4 @@ Takes a number and generates the images of those numbers. Trained on MNIST using
 
 Generator outputs during Training
 
-![Alt Text] (https://github.com/Murali81/Number-2-Images-using-GAN/blob/master/images_numb_Gan_mse_sftmx_cc_cc/output_gif.gif)
+![alt text](https://github.com/Murali81/Number-2-Images-using-GAN/blob/master/images_numb_Gan_mse_sftmx_cc_cc/output_gif.gif)
