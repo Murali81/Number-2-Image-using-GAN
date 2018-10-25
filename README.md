@@ -10,3 +10,7 @@ If the given number is 85481, we convert that to [8,5,4,8,1] and create a batch 
 Generator outputs during Training
 
 ![alt text](https://github.com/Murali81/Number-2-Images-using-GAN/blob/master/images_numb_Gan_mse_sftmx_cc_cc/output_gif.gif)
+
+Explanation:
+
+The major difference you'll find here is the **Discriminator** part, i.e instead of classifying the image as real/fake, it classifies the image into real (10 classes)/ fake.
