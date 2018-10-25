@@ -1,4 +1,4 @@
-# Number-2-Images-using-GAN
+# Number-2-Image-using-GAN
 Takes a number and generates the images of those numbers. Trained on MNIST using GAN.
 
 Generator outputs during Training
