@@ -11,7 +11,7 @@ Generator outputs during Training
 
 ![alt text](https://github.com/Murali81/Number-2-Images-using-GAN/blob/master/images_numb_Gan_mse_sftmx_cc_cc/output_gif.gif)
 
-Refer to this ![article](https://medium.com/@kmanoharmurali/friendly-introduction-to-gans-357cf0a99a6e) for better understanding of GANs.)
+Refer to this ![article](https://medium.com/@kmanoharmurali/friendly-introduction-to-gans-357cf0a99a6e) for better understanding of GANs.
 
 # References
 
